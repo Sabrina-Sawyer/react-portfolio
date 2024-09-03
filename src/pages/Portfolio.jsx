@@ -36,7 +36,7 @@ function Portfolio() {
             title: 'React Portfolio',
             text: 'Portfolio made with React.',
             imgSrc: 'holder.js/100px180',
-            linkUrl: 'https://github.com/Sabrina-Sawyer/react-portfolio'
+            linkUrl: 'https://github.com/Sabrina-Sawyer/react-portfolio-resume'
         },
     ];
 

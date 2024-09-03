@@ -4,6 +4,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
 import Row from 'react-bootstrap/Row';
+import IMG from '../assets/myface.JPG'
 
 
 const styles = {
@@ -25,7 +26,7 @@ function Aboutme() {
             <Row>
                 <Col xs={12} md={4} className="d-flex justify-content-start">
                     <Image
-                        src="path_to_your_image.jpg"
+                        src={IMG}
                         roundedCircle
                         style={styles.image}
                     />
